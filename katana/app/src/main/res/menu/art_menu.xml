@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/add_oyna" android:title="Oyna"></item>
+    <item android:id="@+id/add_kul" android:title="Kullanıcı İşlemleri"></item>
+    <item android:id="@+id/add_map" android:title="Haritalar"></item>
+</menu>
